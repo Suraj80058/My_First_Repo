@@ -1,1 +1,1 @@
-This is for github to syn from local
+This is for github to sync from local
